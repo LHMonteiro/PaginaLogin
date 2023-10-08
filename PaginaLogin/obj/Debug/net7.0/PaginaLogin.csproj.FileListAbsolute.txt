@@ -1,0 +1,15 @@
+C:\Users\vicen\PaginaLogin\PaginaLogin\bin\Debug\net7.0\PaginaLogin.exe
+C:\Users\vicen\PaginaLogin\PaginaLogin\bin\Debug\net7.0\PaginaLogin.deps.json
+C:\Users\vicen\PaginaLogin\PaginaLogin\bin\Debug\net7.0\PaginaLogin.runtimeconfig.json
+C:\Users\vicen\PaginaLogin\PaginaLogin\bin\Debug\net7.0\PaginaLogin.dll
+C:\Users\vicen\PaginaLogin\PaginaLogin\bin\Debug\net7.0\PaginaLogin.pdb
+C:\Users\vicen\PaginaLogin\PaginaLogin\obj\Debug\net7.0\PaginaLogin.csproj.AssemblyReference.cache
+C:\Users\vicen\PaginaLogin\PaginaLogin\obj\Debug\net7.0\PaginaLogin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicen\PaginaLogin\PaginaLogin\obj\Debug\net7.0\PaginaLogin.AssemblyInfoInputs.cache
+C:\Users\vicen\PaginaLogin\PaginaLogin\obj\Debug\net7.0\PaginaLogin.AssemblyInfo.cs
+C:\Users\vicen\PaginaLogin\PaginaLogin\obj\Debug\net7.0\PaginaLogin.csproj.CoreCompileInputs.cache
+C:\Users\vicen\PaginaLogin\PaginaLogin\obj\Debug\net7.0\PaginaLogin.dll
+C:\Users\vicen\PaginaLogin\PaginaLogin\obj\Debug\net7.0\refint\PaginaLogin.dll
+C:\Users\vicen\PaginaLogin\PaginaLogin\obj\Debug\net7.0\PaginaLogin.pdb
+C:\Users\vicen\PaginaLogin\PaginaLogin\obj\Debug\net7.0\PaginaLogin.genruntimeconfig.cache
+C:\Users\vicen\PaginaLogin\PaginaLogin\obj\Debug\net7.0\ref\PaginaLogin.dll
